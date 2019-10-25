@@ -26,7 +26,7 @@ Im Excel file `Daten_und_Analyse_Interessen.xlsx` wird in de Spalte ab XX alle I
 
 In der `Zelle V3` kann der Code einer bestimmten Branche eingegeben werden. In der `Zeile 6` lassen sich dann ab `Spalte S` die Resultate pro Partei ablesen.
 
-Alle Codes um finden sich im Reiter `Codebuch`.
+Die Tabellen um den Codes eine bestimmte Branche zuzuweisen finden sich im Reiter `Codebuch`.
 
 ## Copyright
 
