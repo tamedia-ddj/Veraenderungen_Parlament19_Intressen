@@ -6,11 +6,11 @@ Analyse der Veränderungen der Interessenbindungen im Parlament nach den Nationa
 
 ## Daten
 
+Im Excel file `Daten_und_Analyse_Interessen.xlsx` befinnde sich bis `Spalte R` die von POLITmonitor.ch bzw. Polsan zusammengetragenen Daten zu Interessensverbindungen, Schwerpunkte und Komissionen der bestehenden sowie neugewählten Parlamentariern.
+
 ###### Schwerpunkte:
 
 Schwerpunkte werden anhand von Vorstössen im Parlament ermittelt. Wenn neuen Parlamentarier zuvor in einem kantonalen Parlamenten waren werden sie von dort wenn möglich übernommen. Bei Personen die in keinem kantonalen Parlament waren werden keine Angaben gemacht. Die Summe der Schwerpunkte des neuen Parlamentes wird also eher UNTER-schätzt, da neue Parlamentarier unter Umständen noch keine Schwerpunkte zugewiesen werden konnten.
-
-
 
 ###### Interessensverbindungen:
 
