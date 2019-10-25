@@ -2,7 +2,7 @@
 
 Analyse der Veränderungen der Interessenbindungen im Parlament nach den Nationalratswahlen 2019.
 
-*Artikel: * Der Artikel wird in der Sonntagszeitung am 27.10.2019 publiziert
+**Artikel: ** Der Artikel wird in der Sonntagszeitung am 27.10.2019 publiziert
 
 ## Daten
 
