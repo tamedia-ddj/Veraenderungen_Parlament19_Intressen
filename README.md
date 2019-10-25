@@ -20,7 +20,7 @@ Interessensverbindungen kommen bei bestehenden Parlamentariern aus den offiziell
 
 ## Analyse
 
-Im Excel file XX.xlsx wird in de Spalte ab XX alle Interessensverbindungen pro Partei ausgewertet. Dabei wird verglichen wie viele Parlamentarier mit einer Interessensverbindung zu einer bestimmten Branche im Parlament vor den Wahlen waren, und wieviele nach Antritt der neu gewählten Parlamentarier sein werden.
+Im Excel file `Daten_und_Analyse_Interessen.xlsx` wird in de Spalte ab XX alle Interessensverbindungen pro Partei ausgewertet. Dabei wird verglichen wie viele Parlamentarier mit einer Interessensverbindung zu einer bestimmten Branche im Parlament vor den Wahlen waren, und wieviele nach Antritt der neu gewählten Parlamentarier sein werden.
 
 In der `Zelle V3` kann der Code einer bestimmten Branche eingegeben werden. In der `Zeile 6` lassen sich dann ab `Spalte S` die Resultate pro Partei ablesen.
 
